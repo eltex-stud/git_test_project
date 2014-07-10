@@ -6,6 +6,6 @@ void fun1(){
 
 int main()
 {
-	printf("This is filetest.c, bitches\n");
+	printf("This is filetest.c, <censure>\n");
 	return 0;
 }
