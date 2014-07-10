@@ -10,7 +10,10 @@ int fun2(int a, int b) {
 
 int main()
 {
-	printf("This is filetest.c, <censure>\n");
-	//тестовый комментарий
+	printf("This is filetest.c\n");
+
+
+	/*Cirilic chars not support!
+	 *Please write in english!*/
 	return 0;
 }
